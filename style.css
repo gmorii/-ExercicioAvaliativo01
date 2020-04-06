@@ -1,0 +1,30 @@
+h1{
+ text-align: left;
+}
+h2{
+    color: gray;
+    text-align: left;
+}
+.post:nth-child(even) {
+    background: rgb(211, 209, 209)
+   }
+td, th{
+    padding-right: 15px;
+    padding-left: 5px;
+    border: 0px;
+    text-align: center;
+}
+table{
+    font-size: 30px ;
+    max-width: 100%;
+    border: 0px;
+    padding-top: 30px;
+}
+
+.total{
+    background: red;
+    color: white;
+}
+footer{
+    text-align: right;
+}
